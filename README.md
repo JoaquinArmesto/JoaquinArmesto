@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaqui</h1>
-<h3 align="center">Data scientist / analyst</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinarmesto&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinarmesto" /> </p>
 
