@@ -1,7 +1,3 @@
-
-[![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinArmesto)](https://github.com/rocketpower/github-readme-stats)
-
-
 <h1 align="center">Hi 👋, I'm Joaqui</h1>
 <h3 align="center">Data scientist / analyst</h3>
 
